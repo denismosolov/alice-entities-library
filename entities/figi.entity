@@ -435,21 +435,19 @@ entity EFigi:
             %exact
             PIKK
             %lemma
-            ПИК
+            (группа компаний)? ПИК
         BBG004S689R0:
             %exact
             PHOR
-            %lemma
             ФосАгро
         BBG003BNWBP3:
             %exact
             PRFN
             %lemma
-            ЧЗПСН
+            ЧЗПСН (профнастил)?
         BBG004S681B4:
             %exact
             NLMK
-            %lemma
             НЛМК
         BBG004S68JR8:
             %exact
@@ -464,13 +462,12 @@ entity EFigi:
         BBG000NL6ZD9:
             %exact
             IRGZ
-            %lemma
             Иркутскэнерго
         BBG000RG4ZQ4:
             %exact
             TGKN
-            %lemma
             ТГК 14
+            ТГК четырнадцать
         BBG00475KHX6:
             %exact
             TRNFP
@@ -479,7 +476,6 @@ entity EFigi:
         BBG004S681W1:
             %exact
             MTSS
-            %lemma
             МТС
         BBG000NLB2G3:
             %exact
@@ -490,7 +486,7 @@ entity EFigi:
             %exact
             LSRG
             %lemma
-            Группа ЛСР
+            (Группа)? ЛСР
         BBG000R466J1:
             %exact
             RUSP
@@ -500,22 +496,25 @@ entity EFigi:
             %exact
             SNGSP
             %lemma
-            Сургутнефтегаз привилегированные акции
+            [Сургутнефтегаз привилегированные акции]
+            [Сургут привилегированные акции]
         BBG004S68BR5:
             %exact
             NMTP
             %lemma
             НМТП
+            Новороссийский (морской)? (торговый)? порт
         BBG004S68507:
             %exact
             MAGN
             %lemma
             Магнитогорский металлургический комбинат
+            ММК
         BBG000NLCCM3:
             %exact
             LSNGP
             %lemma
-            Ленэнерго акции привилегированные
+            [Ленэнерго акции привилегированные]
         BBG004S684M6:
             %exact
             SIBN
@@ -525,12 +524,14 @@ entity EFigi:
             %exact
             NKNCP
             %lemma
-            Нижнекамскнефтехим акции привилегированные
+            [Нижнекамскнефтехим акции привилегированные]
+            НКНХ
         BBG000V07CB8:
             %exact
             DVEC
             %lemma
             ДЭК
+            дальневосточная энергетическая компания
         BBG002BCQK67:
             %exact
             NSVZ
@@ -540,7 +541,8 @@ entity EFigi:
             %exact
             TGKBP
             %lemma
-            ТГК 2 акции привилегированные
+            [ТГК 2 акции привилегированные]
+            [ТГК два акции привилегированные]
         BBG000TZGXK8:
             %exact
             PRTK
@@ -561,6 +563,7 @@ entity EFigi:
             AMEZ
             %lemma
             Ашинский метзавод
+            Ашинский (металлургический)? завод
         BBG000BN56Q9:
             %exact
             DSKY
@@ -575,7 +578,8 @@ entity EFigi:
             %exact
             RKKE
             %lemma
-            РКК Энергия им.С.П.Королева
+            РКК Энергия имени С П Королева
+            РКК Энергия имени (сергея)? (павловича)? Королева
         BBG000QQPXZ5:
             %exact
             LNTA
@@ -640,12 +644,12 @@ entity EFigi:
             %exact
             CNTLP
             %lemma
-            Центральный Телеграф акции привилегированные
+            [Центральный Телеграф акции привилегированные]
         BBG004S68473:
             %exact
             IRAO
             %lemma
-            Интер РАО ЕЭС
+            (Интер)? РАО ЕЭС
         BBG000BBV4M5:
             %exact
             CNTL
@@ -660,7 +664,10 @@ entity EFigi:
             %exact
             FIVE
             %lemma
-            ГДР X5 RetailGroup
+            (ГДР)? X5 RetailGroup
+            икс пять ретейл групп
+            икс пять ритейл групп
+            икс пять ритеил груп
         BBG002W2FT69:
             %exact
             ABRD
