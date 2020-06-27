@@ -20,9 +20,11 @@ entity EFigi:
             BANE
             %lemma
             Башнефть
+            Баш нефть
         BBG004TC84Z8:
             %exact
             TRMK
+            ТМК
             %lemma
             Трубная Металлургическая Компания
         BBG004730JJ5:
@@ -34,7 +36,7 @@ entity EFigi:
             %exact
             BANEP
             %lemma
-            Башнефть привилегированные акции
+            Башнефть [привилегированные акции]
         BBG008F2T3T2:
             %exact
             RUAL
@@ -45,45 +47,47 @@ entity EFigi:
             TTLK
             %lemma
             Таттелеком
+            Тат телеком
         BBG000VKG4R5:
             %exact
             MRKU
             %lemma
-            МРСК Урала
+            МРСК Урал
         BBG004731489:
             %exact
             GMKN
             %lemma
             Норильский никель
+            Норникель
         BBG000TJ6F42:
             %exact
             MRKZ
             %lemma
-            МРСК Северо Запада
+            МРСК Северо Запад
         BBG000Q7GG57:
             %exact
             TGKB
             %lemma
             ТГК 2
+            ТГК два
         BBG0029SFXB3:
             %exact
             KZOS
             %lemma
-            ПАО «КАЗАНЬОРГСИНТЕЗ»
+            (ПАО)? КАЗАНЬОРГСИНТЕЗ
+            (ПАО)? КАЗАНЬ ОРГ СИНТЕЗ
         BBG004S687G6:
             %exact
             MSRS
-            %lemma
             МОЭСК
         BBG000FWGSZ5:
             %exact
             IRKT
             %lemma
-            Корпорация ИРКУТ
+            (Корпорация)? ИРКУТ
         BBG000N16BP3:
             %exact
             ISKJ
-            %lemma
             ИСКЧ
         BBG004S686W0:
             %exact
