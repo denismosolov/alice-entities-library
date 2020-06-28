@@ -3,7 +3,7 @@ entity EFigi:
     values:
         BBG005DXJS36:
             %exact
-            YNDX
+            TCS
             %lemma
             тиньков(банк)?
             тинькоф(банк)?
