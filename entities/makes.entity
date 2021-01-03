@@ -200,7 +200,7 @@ entity EMakes:
              %lemma
              Юнгхайнрик
              Jungheinrich
-        сhereau:
+        "сhereau":
              %lemma
              Шеро
              Chereau
