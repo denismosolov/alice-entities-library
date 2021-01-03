@@ -104,7 +104,7 @@ entity EMakes:
              %lemma
              Азия
              Asia
-        aston-martin:
+        astonmartin:
              %lemma
              Астон Мартин
              Aston Martin
@@ -164,7 +164,7 @@ entity EMakes:
              %lemma
              Шкода
              Skoda
-        mercedes-benz:
+        mercedesbenz:
              %lemma
              Мерседес Бенц
              Mercedes-Benz
@@ -304,8 +304,7 @@ entity EMakes:
              %lemma
              БТ
              BT
-        tennant
-:
+        tennant:
              %lemma
              Tennant
              Tennant
@@ -405,7 +404,7 @@ entity EMakes:
              %lemma
              Джили
              Geely
-        alfa-romeo:
+        alfaromeo:
              %lemma
              Альфа Ромео
              Alfa Romeo
@@ -585,11 +584,11 @@ entity EMakes:
              %lemma
              Релиант
              Reliant
-        renault-samsung:
+        renaultsamsung:
              %lemma
              Рено Самсунг
              Renault Samsung
-        rolls-royce:
+        rollsroyce:
              %lemma
              Роллс-Ройс
              Rolls-Royce
@@ -717,7 +716,7 @@ entity EMakes:
              %lemma
              Даймлер
              Daimler
-        de-tomaso:
+        detomaso:
              %lemma
              Де Томасо
              De Tomaso
@@ -741,7 +740,7 @@ entity EMakes:
              %lemma
              Донкервурт
              Donkervoort
-        e-car:
+        ecar:
              %lemma
              Е-Кар
              E-Car
@@ -821,7 +820,7 @@ entity EMakes:
              %lemma
              Альпине
              Alpine
-        am-general:
+        amgeneral:
              %lemma
              АМ Генерал
              AM General
@@ -913,7 +912,7 @@ entity EMakes:
              %lemma
              Вайсман
              Wiesmann
-        xin-kai:
+        xinkai:
              %lemma
              Ксин Кай
              Xin Kai
@@ -1109,7 +1108,7 @@ entity EMakes:
              %lemma
              Маркос
              Marcos
-        w-motors:
+        wmotors:
              %lemma
              W Motors
              W Motors
@@ -1117,7 +1116,7 @@ entity EMakes:
              %lemma
              Киа
              Kia
-        land-rover:
+        landrover:
              %lemma
              Ленд Ровер
              Land Rover
@@ -1141,11 +1140,11 @@ entity EMakes:
              %lemma
              Саньёнг
              SsangYong
-        -:
+        hawker:
              %lemma
              Хавкер
              Hawker
-        AKB:
+        akb:
              %lemma
              АКБ
              АКБ
@@ -1157,7 +1156,7 @@ entity EMakes:
              %lemma
              Пежо
              Peugeot
-        great-wall:
+        greatwall:
              %lemma
              Грейт Волл
              Great Wall
