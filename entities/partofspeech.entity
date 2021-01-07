@@ -1,0 +1,42 @@
+entity EPartOfSpeech:
+    values:
+        Noun:
+            %lemma
+            (имя)? существительное
+        Verb:
+            %lemma
+            глагол
+        Adjective:
+            %lemma
+            (имя)? прилагательное
+        Adverb:
+            %lemma
+            наречие
+        Numeral:
+            %lemma
+            (имя)? числительное
+        Participle:
+            %lemma
+            причастие
+        Transgressive:
+            %lemma
+            деепричастие
+        Pronoun:
+            %lemma
+            местоимение
+        Preposition:
+            %lemma
+            предлог
+        Conjunction:
+            %lemma
+            союз
+        Particle:
+            %lemma
+            частица
+        Interjection:
+            %lemma
+            междометие
+        Predicative:
+            %lemma
+            предикатив
+            предикат
