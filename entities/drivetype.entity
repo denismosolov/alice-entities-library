@@ -1,0 +1,17 @@
+entity EDriveType:
+    values:
+        rear:
+            %lemma
+            Задний
+            Заднеприводный 
+            rear
+        front:
+            %lemma
+            Передний
+            Переднеприводный
+            front
+        full:
+            %lemma
+            Полный
+            Полноприводный
+            full
